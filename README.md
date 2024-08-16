@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Anna, an aspiring data analyst and data scientist 🎓 studying at ITMO, honing my skills and passion for data since day one 🚀</div>  
+### <div align="center">I'm Anna, an aspiring data analyst and data scientist studying at ITMO, honing my skills and passion for data since day one</div>  
   
 
 - I'm currently working at [Startupvisa](https://startupvisa.carrd.co)  
